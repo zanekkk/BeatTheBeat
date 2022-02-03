@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/BeatTheBeat_displayable.rpy", line 107: unexpected indent
+                self.note_drawables_large = {
+                ^
+    
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Thu Feb  3 02:18:27 2022
